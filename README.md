@@ -1,25 +1,27 @@
-# quiz-flutter
-Quiz sobre One-punch man usando flutter
+# Expense Tracker App
+This app features a responsive and adaptive interface, automatically adjusting to different screen sizes on mobile devices, ensuring a smooth and intuitive navigation experience.
 
-| ![Imagem 1](inicio.png) | ![Imagem 2](pergunta.png) | ![Imagem 3](resultado.png) |
-|---|---|---|
+![Imagem 1](home.png) ![Imagem 2](add_expense.png) 
+ ![Imagem 3](home_h.png) 
 
-## Iniciando a aplicação
-Antes de começar, assegure-se de ter o Flutter instalado e configurado corretamente em sua máquina. Caso prefira, também é possível utilizar um emulador de dispositivo móvel. Após baixar e descompactar os arquivos do projeto, siga os passos abaixo:
 
-1. Abra o terminal e navegue até o diretório onde os arquivos do projeto foram salvos.
 
-2. Execute o comando abaixo para garantir que todas as dependências do projeto sejam instaladas:
+## Starting the application
+Before you begin, make sure you have Flutter installed and configured correctly on your machine. If you prefer, you can also use a mobile device emulator. After downloading and unzipping the project files, follow the steps below:
+
+1. Open the terminal and navigate to the directory where the project files were saved.
+
+2. Run the command below to ensure that all project dependencies are installed:
 
 ```
 flutter pub get
 ```
 
-3. Após a instalação bem-sucedida das dependências, inicie a aplicação executando o seguinte comando:
+3. After successfully installing the dependencies, start the application by running the following command:
 
 ```
 flutter run
 ```
 
-4. Com isso, a aplicação deverá ser compilada e executada no emulador ou dispositivo conectado.
+4. With this, the application should be compiled and run on the emulator or connected device.
 
