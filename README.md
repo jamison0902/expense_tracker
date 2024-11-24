@@ -2,8 +2,12 @@
 This app features a responsive and adaptive interface, automatically adjusting to different screen sizes on mobile devices, ensuring a smooth and intuitive navigation experience.
 
 | ![Imagem 1](home.png) | ![Imagem 2](add_expense.png) |
-|
- ![Imagem 3](home_h.png) 
+|---|---|
+
+# Adaptive interface
+| ![Imagem 3](home_h.png) |
+|---|
+
 
 
 
